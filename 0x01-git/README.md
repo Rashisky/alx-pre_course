@@ -1,1 +1,1 @@
-git pull https://github.com/Rashisky/alx-pre_course.git
+up_to_date

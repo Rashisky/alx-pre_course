@@ -1,2 +1,1 @@
-git fetch --all
-git checkout origin/master 0x01-git/README.md
+git pull https://github.com/Rashisky/alx-pre_course.git
